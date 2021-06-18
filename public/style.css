@@ -65,7 +65,6 @@ body {
   box-shadow: var(--shadow-10) var(--accent);
   transition: all ease-in-out 0.25s;
   justify-content: space-between;
-  overflow: scroll;
 }
 
 /* ########## homepage ######### */
