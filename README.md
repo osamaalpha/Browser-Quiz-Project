@@ -7,7 +7,7 @@
 # My Contribution to the Project
 <ul>
 <li>Come up With an idea to check the right answer </li>
-<li>Make a give up button to the show the right answer</li>
+<li>Make a give up button to  show the right answer</li>
 <li>How to finish rendering questions and show the quiz summary</li>
 </ul>
 
