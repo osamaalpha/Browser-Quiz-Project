@@ -1,8 +1,8 @@
-# Group Project With <a href="https://github.com/RanaAlkhoudari">Rana Alkhodary</a>,<a href="https://github.com/88kiwan">Wael</a>,<a href="https://github.com/nizamimursudlu">Nizami</a>
+# Group Project With <a href="https://github.com/RanaAlkhoudari">Rana Alkhodary</a>, <a href="https://github.com/88kiwan">Wael</a>, <a href="https://github.com/nizamimursudlu">Nizami</a>
 
 <img src="./public/quizimg.JPG">
 
-<h1>Checkout the Demo:<a href="https://osamaalpha.github.io/Browser-Quiz-Project/index.html">JavaScript Quiz</a></h1>
+<h1>Checkout the Demo: <a href="https://osamaalpha.github.io/Browser-Quiz-Project/index.html">JavaScript Quiz</a></h1>
 
 # My Contribution to the Project
 <ul>
