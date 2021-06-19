@@ -1,3 +1,10 @@
+# Group Project With <a href="https://github.com/RanaAlkhoudari">Rana Alkhodary</a>,<a href="https://github.com/88kiwan">Wael</a>,<a href="https://github.com/nizamimursudlu">Nizami</a>
+
+<img src="./public/quizimg.jpg">
+
+<h1>Checkout the Demo</h1>:<a href="https://osamaalpha.github.io/Browser-Quiz-Project/index.html">JavaScript Quiz</a>
+
+
 # Getting Started
 
 This repository comes with some nice extras like testing, documentation and CI, but in it's heart it's just an HTML/CSS/JS website boilerplate.
