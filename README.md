@@ -1,4 +1,4 @@
-# Group Project With <a href="https://github.com/RanaAlkhoudari">Rana Alkhodary</a>, <a href="https://github.com/88kiwan">Wael</a>, <a href="https://github.com/nizamimursudlu">Nizami</a>
+# Group Project With <a href="https://github.com/RanaAlkhoudari">Rana </a>, <a href="https://github.com/88kiwan">Wael</a>, <a href="https://github.com/nizamimursudlu">Nizami</a>
 
 <img src="./public/quizimg.JPG">
 
