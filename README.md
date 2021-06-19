@@ -2,7 +2,14 @@
 
 <img src="./public/quizimg.JPG">
 
-Checkout the Demo:<a href="https://osamaalpha.github.io/Browser-Quiz-Project/index.html">JavaScript Quiz</a>
+<h1>Checkout the Demo:<a href="https://osamaalpha.github.io/Browser-Quiz-Project/index.html">JavaScript Quiz</a></h1>
+
+# My Contribution to the Project
+<ul>
+<li>Come up With an idea to check the right answer </li>
+<li>Make a give up button to the show the right answer</li>
+<li>How to finish rendering questions and show the quiz summary</li>
+</ul>
 
 
 # Getting Started
